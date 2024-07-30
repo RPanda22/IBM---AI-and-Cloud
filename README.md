@@ -50,16 +50,6 @@ The XGBoost model achieved the highest accuracy of 0.9618 and was selected as th
 - **Feature Importance**: Key features influencing the model's predictions were identified.
 - **Visualization**: Plots of the actual vs. predicted labels for the top 20 samples.
 
-### Key Visualizations
-1. **Confusion Matrix**: 
-   ![XGBoost Confusion Matrix](images/confusion_matrix.png)
-   
-2. **Feature Importance**:
-   ![Feature Importance](images/feature_importance.png)
-   
-3. **Actual vs. Predicted Labels**:
-   ![Actual vs. Predicted Labels](images/actual_vs_predicted.png)
-
 ## Conclusion
 The project successfully developed a machine learning solution to detect fake Instagram accounts. The XGBoost model demonstrated high accuracy and robustness, making it suitable for real-time application. The results highlight the model's ability to generalize well on unseen data, providing an efficient solution for enhancing the security and integrity of Instagram profiles.
 
